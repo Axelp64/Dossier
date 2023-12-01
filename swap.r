@@ -14,3 +14,6 @@ ggplot(data, aes(x = x, y = y)) +
   ggtitle("Simple Scatter Plot") +
   xlab("X Axis Label") +
   ylab("Y Axis Label")
+
+
+Axel <-"Axel va gagner ce soir au Padel, et pas payer la raclette :)"
