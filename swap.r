@@ -4,7 +4,7 @@ library(ggplot2)
 
 # Sample data
 data <- data.frame(
-  x = 1:10,
+  x = 1:15,
   y = c(2, 4, 3, 6, 5, 8, 7, 10, 9, 12)
 )
 
@@ -19,3 +19,6 @@ ggplot(data, aes(x = x, y = y)) +
 
 Axel <-"Axel va gagner ce soir au Padel, et pas payer la raclette :)"
 eideij <-"bhcdbdhbc"
+
+
+ggg<- 5858
