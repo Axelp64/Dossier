@@ -18,3 +18,4 @@ ggplot(data, aes(x = x, y = y)) +
 
 Axel <-"Axel va gagner ce soir au Padel, et pas payer la raclette :)"
 eideij <-"bhcdbdhbc"
+decembre <- "ehedhd cd cbd cgcgevdgeynsunxjzndhve"
