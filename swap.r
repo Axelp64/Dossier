@@ -17,5 +17,4 @@ ggplot(data, aes(x = x, y = y)) +
 
 
 Axel <-"Axel va gagner ce soir au Padel, et pas payer la raclette :)"
-eideij <-"bhcdbdhbc" 
-kk <- 45 
+eideij <-"bhcdbdhbc"
